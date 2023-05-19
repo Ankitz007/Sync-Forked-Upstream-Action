@@ -99,5 +99,7 @@ __tests__/runner/*
 lib/**/*
 
 # Ignore devcontainer config
-.devcontainer
-.devcontainer/*
+.devcontainer/
+
+# Ignore bin
+bin/*
